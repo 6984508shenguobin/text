@@ -1,0 +1,33 @@
+
+http://www.itmayiedu.com/front/couinfo/38/122
+
+http://www.java1234.com/a/javaziliao/
+
+
+
+http://mvnrepository.com/   maven下载各种依赖包
+
+
+https://pan.baidu.com/s/1o8qUMp0
+
+https://pan.baidu.com/s/1o8qUMp0 密码：isn1   讲课视频
+
+
+github.com/mybatis/spring/releases   下载mybatis与spring框架整合的JR包
+
+github.com   可以下载mybatis框架
+
+
+ctrl+shift+h   可以搜索各种数据库连接池 eg:  
+ C3P0:有自动回收空闲连接的功能。
+DBCP：而dbcp没有。
+
+
+springAOP中，注解实现必须加一个aspectj 札包 去这个找aspectjweaver
+
+@transactional 事物注解
+
+https://v3.bootcss.com/  下载bootstrap前段框架
+
+git账号6984508shenguobin
+密码：69845084024sgb
